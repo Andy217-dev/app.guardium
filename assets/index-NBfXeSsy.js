@@ -46666,7 +46666,7 @@ const Wl = new yW(),
                         children: T.jsx("li", {
                           children: T.jsxs(Gr, {
                             className: $n(" ", { active: a.pathname === "#" }),
-                            to: "https://docs.shieldeum.net",
+                            to: "https://mighty-2.gitbook.io/guardium",
                             target: "_blank",
                             children: [
                               T.jsxs("svg", {
